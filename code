@@ -1,0 +1,32 @@
+multiples = []
+other_numbers = []
+while True:
+    X = input("enter first number between 1-100 :")
+    Y = input("enter second number between 1-100 :")
+    num = input("enter the number that extract it's multiples :")
+    try:
+        X = int(X)
+        Y = int(Y)
+        num = int(num)
+        break
+    except:
+        print("pleas enter a valid number :")
+        continue
+if Y < X:
+    i = Y
+    while i <= X:
+        if (i % num == 0):
+            multiples.append(i)
+        else :
+            other_numbers.append(i)
+        i += 1
+else:
+    i = X
+    while i <= Y:
+        if (i % num == 0):
+            multiples.append(i)
+        else :
+            other_numbers.append(i)
+        i += 1
+print("multiples :\n" + " " + str(multiples) + "\n")
+print("other numbers :\n" + " " + str(other_numbers))
