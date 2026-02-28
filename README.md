@@ -35,4 +35,4 @@ Contributions are welcome! Feel free to:
 . This project is open-source
 
 
-IMPORTANT : strong projects comming soon!
+IMPORTANT!: strong projects comming soon![ComingUpGIF](https://github.com/user-attachments/assets/73a9dd76-a0d2-4da3-86e7-f8bec954bc92)
