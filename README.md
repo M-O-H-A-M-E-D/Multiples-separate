@@ -33,3 +33,6 @@ Contributions are welcome! Feel free to:
 
 📜 License :
 . This project is open-source
+
+
+IMPORTANT : strong projects comming soon!
